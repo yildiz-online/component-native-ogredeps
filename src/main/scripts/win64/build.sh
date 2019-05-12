@@ -19,4 +19,4 @@ rm Makefile
 rm install_manifest.txt
 rm -r notwanted
 
-return $r1
+exit ${r1}
