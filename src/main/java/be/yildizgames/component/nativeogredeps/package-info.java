@@ -22,12 +22,9 @@
  *
  */
 
-package be.yildizgames.component.nativebullet;
-
 /**
+ * This project wrap the Bullet Physics library.
  * @author Grégory Van den Borre
  */
-public class Artifact {
+package be.yildizgames.component.nativeogredeps;
 
-    public static final String name = "Bullet physics";
-}
